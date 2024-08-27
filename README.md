@@ -26,7 +26,7 @@ sudo apt install python3 -y
 
 git clone https://github.com/Mr-lucifer-exe/BlueTest
 
-cd blueTest
+cd BlueTest
 
 bash install.sh
 
@@ -41,6 +41,6 @@ apt update -y ; apt install python -y ; apt install git -y ; git clone https://g
 ### FOR RUN :
 
 ```
-python blueTest.py
+python BlueTest.py
 
 ```
