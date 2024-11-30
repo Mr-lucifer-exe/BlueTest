@@ -22,7 +22,7 @@ TAB
 ENTER
 DELAY 7000
 REM # Enter your message here
-STRING get clapped by *Rakib*
+STRING get clapped by *Lucifer*
 DELAY 500
 TAB
 TAB
